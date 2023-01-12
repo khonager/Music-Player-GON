@@ -2,7 +2,7 @@
 <img width="128" src="https://github.com/enricocid/Music-Player-GO/blob/main/fastlane/metadata/android/en-US/images/icon.png">
 </p>
 
-<h1 align="center">Music Player GO</h1>
+<h1 align="center">Music Player GON</h1>
 
 <p align="center">
 <img width="400" src="art16.gif">
